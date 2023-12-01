@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charvikkk
-- 👀 I’m interested in No-code Web developing
-- 🌱 I’m currently learning Everything I can
+- 👀 I’m interested in trying new things, as they increase my overall experience
+- 🌱 I’m currently looking for internships that can help me gain experience in any field which a bit related to my course
 
 
 <!---
